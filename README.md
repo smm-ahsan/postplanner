@@ -37,7 +37,7 @@ them, and get back to running the business.
 No installation needed. Clone the repo and run it with Python 3:
 
 ```bash
-git clone https://github.com/ahsanhani/postplanner.git
+git clone https://github.com/smm-ahsan/postplanner.git
 cd postplanner
 python3 postplanner.py --help
 ```
